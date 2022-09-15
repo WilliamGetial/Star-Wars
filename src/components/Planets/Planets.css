@@ -1,0 +1,50 @@
+.curpl {
+    background-color: darkcyan;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cardspl {
+    background-color: darkblue;
+    color: white;
+    border-radius: 9px;
+    display: grid;
+    grid-template-columns: 110px 250px;
+    padding-top: 30px;
+    width: 525px;
+    height: 345px;
+    margin-bottom: 50px;
+}
+
+.cardspl .dat-infpl {
+    margin-left: 35px;
+    display: grid;
+    grid-template-columns: 110px 265px;
+    grid-template-rows: 25px 25px 25px 25px 25px 25px 45px 25px;
+}
+
+.cardspl .imgplanet {
+    width: 110px;
+    margin-left: 20px;
+}
+
+.btnp {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 525px;
+}
+
+.btnav {
+    height: 35px;
+    border-radius: 10px;
+    margin: 2px;
+}
+
+.vmsp {
+    margin-bottom: 20px;
+    border-radius: 10px;
+}

@@ -1,0 +1,50 @@
+.curpf {
+    background-color: darkcyan;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cardsch {
+    background-color: darkblue;
+    color: white;
+    border-radius: 9px;
+    display: grid;
+    grid-template-columns: 110px 110px;
+    padding-top: 30px;
+    width: 500px;
+    margin-bottom: 60px;
+}
+
+.cardsch .dat-infch {
+    margin-left: 90px;
+    display: grid;
+    grid-template-columns: 100px 200px;
+    grid-template-rows: 25px 25px 25px 25px 25px 25px 25px 25px;
+    margin-bottom: 20px;
+}
+
+.cardsch .imgperfil {
+    width: 110px;
+    margin-left: 40px;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 500px;
+}
+
+.bnav {
+    height: 35px;
+    border-radius: 10px;
+    margin: 2px;
+}
+
+.vms {
+    margin-top: 30px;
+    border-radius: 10px;
+}

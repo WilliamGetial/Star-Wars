@@ -1,0 +1,15 @@
+.logo{
+    margin-left: 3rem;
+}
+.items{
+    margin-right: 3rem;
+}
+.navlink{
+    color: white;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navlink:hover{
+    color: rgb(123, 123, 255);
+    text-decoration: underline;
+}
